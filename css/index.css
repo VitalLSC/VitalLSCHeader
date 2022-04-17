@@ -9,7 +9,7 @@ body{
 /*    margin: 1px;*/
 /*    padding-bottom: 20px;*/
     position: relative;
-    animation: gradientslide 5s ease infinite;
+/*    animation: gradientslide 5s ease infinite;*/
 }
 
 @keyframes gradientslide { 
@@ -220,14 +220,14 @@ body, html{
     background: linear-gradient(270deg, #2167c8, #3f3f3f, #c81b4f);
     background-size: 600% 600%;
     color: white;
-    animation: gradientslide 5s ease infinite;
+/*    animation: gradientslide 5s ease infinite;*/
     height: 100%;
 }
 
 @keyframes gradientslide { 
-		0%{background-position:0% 50%}
+		0%{background-position:100% 50%}
 		50%{background-position:100% 50%}
-		100%{background-position:0% 50%}
+		100%{background-position:100% 50%}
 	}
 
 .wrapper{
