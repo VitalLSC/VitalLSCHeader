@@ -3,7 +3,7 @@ body{
     background-size: 600% 600%;
     color: white;
     margin: 1px;
-    animation: gradientslide 5s ease infinite;
+/*    animation: gradientslide 5s ease infinite;*/
 }
 
 @keyframes gradientslide { 
