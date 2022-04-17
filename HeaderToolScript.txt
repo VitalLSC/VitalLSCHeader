@@ -47,13 +47,13 @@
                             <a href="HC-sign.html">High Command</a>
                         </li>
                         <li>
-                            <a href="PC-sign.html">Police Command</a>
+                            <a href="PC-sign.html">Management</a>
                         </li>
                         <li>
-                            <a href="PO-sign.html">Police Officer</a>
+                            <a href="PO-sign.html">Roadside</a>
                         </li>
                          <li>
-                            <a href="IB-sign.html">Investigation Bureau</a>
+                            <a href="IB-sign.html">Trainer</a>
                         </li>
                     </ul>
                 </li>
