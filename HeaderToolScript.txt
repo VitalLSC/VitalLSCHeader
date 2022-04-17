@@ -63,8 +63,8 @@
                 <li>
                     <a href="title.html">Title</a>
                 </li>
-		<a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Signatures</a>
-                     <ul class="collapse list-unstyled show" id="homeSubmenu">
+		<a href="#home2Submenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Signatures</a>
+                     <ul class="collapse list-unstyled show" id="home2Submenu">
                         <li>
                             <a href="HC-sign.html">High Command</a>
                         </li>
@@ -81,10 +81,6 @@
             </ul>
               <div class="credits">
                   <p>Credits: Synergy#1234</p>
-                  <p>Credits: Speedracer#2020</p> 
-		  <p>Credits: FullPotato#2962</p>
-                  <p>Base Script Credits: Stax#0276</p>
-                  <p>Base Script Credits: CaS#6976</p>
               </div>
                 
         </nav>
