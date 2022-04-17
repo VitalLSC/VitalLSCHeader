@@ -65,11 +65,11 @@
                 </li>
             </ul>
               <div class="credits">
-                  <h3>Credits: Synergy#1234</h3>
-                  <h3>Credits: Speedracer#2020</h3> 
-		  <h3>Credits: FullPotato#2962</h3>
-                  <h3>Base Script Credits: Stax#0276</h3>
-                  <h3>Base Script Credits: CaS#6976</h3>
+                  <p>Credits: Synergy#1234</p>
+                  <p>Credits: Speedracer#2020</p> 
+		  <p>Credits: FullPotato#2962</p>
+                  <p>Base Script Credits: Stax#0276</p>
+                  <p>Base Script Credits: CaS#6976</p>
               </div>
                 
         </nav>
