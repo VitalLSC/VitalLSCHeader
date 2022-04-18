@@ -2378,7 +2378,7 @@ textarea.form-control {
 .btn {
   display: inline-block;
   font-weight: 400;
-  color: #212529;
+  color: #4E468C;
   text-align: center;
   vertical-align: middle;
   -webkit-user-select: none;
@@ -2401,7 +2401,7 @@ textarea.form-control {
 }
 
 .btn:hover {
-  color: #212529;
+  color: #5D57A1;
   text-decoration: none;
 }
 
@@ -2421,13 +2421,13 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #4E468C;
+  border-color: #4E468C;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #0069d9;
+  background-color: #5D57A1;
   border-color: #0062cc;
 }
 
@@ -2437,8 +2437,8 @@ fieldset:disabled a.btn {
 
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #4E468C;
+  border-color: #4E468C;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
